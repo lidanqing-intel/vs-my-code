@@ -13,8 +13,8 @@
 
 - PR 合并次数：109 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+merged%3A2018-10-01..2025-01-17&type=pullrequests)
 - 代表性 PR 展示：
-    [MKLDNN develop fake data tester](https://github.com/PaddlePaddle/PaddleSlim/pull/943/files)
-    [Do not quantize X and Y if both are output](https://github.com/PaddlePaddle/Paddle/pull/43297)
+    a. [MKLDNN develop fake data tester](https://github.com/PaddlePaddle/PaddleSlim/pull/943/files)
+    b. [Do not quantize X and Y if both are output](https://github.com/PaddlePaddle/Paddle/pull/43297)
 ### ISSUE 贡献（必填）
 
 - ISSUE 提交次数：51 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2018-10-01..2025-01-17&type=issues)
