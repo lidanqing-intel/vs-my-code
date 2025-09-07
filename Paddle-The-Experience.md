@@ -6,7 +6,7 @@
 
 最重要的是，早日让家务机器人(类似Mobile ALOHA)早日量产走进千家万户，为了懒人的未来，为了每个人从繁杂事务中解放，让我们用AI让每个畅想成为现实。
 
-### Github ID：[lidanqing-intel](https://github.com/lidanqing-intel)
+### Github ID：[lidanqing](https://github.com/lidanqing-intel)
 (个人介绍)
 
 ### PR 贡献（必填）
