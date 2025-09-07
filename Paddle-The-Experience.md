@@ -6,17 +6,17 @@
 
 ### PR 贡献（必填）
 
-- PR 合并次数：xx / [查询链接](https://github.com/search?q=author%3ALigoml+org%3APaddlePaddle+type%3Apr+merged%3A2024-06-11..2025-01-17&type=pullrequests) （注意替换 author 值）
+- PR 合并次数：88 / [查询链接]([https://github.com/search?q=author%3ALigoml+org%3APaddlePaddle+type%3Apr+merged%3A2024-06-11..2025-01-17&type=pullrequests](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+merged%3A2019-10-01..2025-01-17&type=pullrequests)) （注意替换 author 值）
 - 代表性 PR 展示：
 
 ### ISSUE 贡献（必填）
 
-- ISSUE 提交次数：xx / [查询链接](https://github.com/search?q=author%3ALigoml+org%3APaddlePaddle+type%3Aissue+created%3A2024-06-11..2025-01-17&type=issues) （注意替换 author 值）
+- ISSUE 提交次数：xx / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2019-10-01..2025-01-17&type=issues) （注意替换 author 值）
 - 代表性 ISSUE 展示：
 
 ### 评论贡献（必填）
 
-- 评论 ISSUE 次数：xx / [查询链接](https://github.com/search?q=commenter%3ALigoml+org%3APaddlePaddle+type%3Aissue+created%3A2024-06-11..2025-01-17&type=issues) （注意替换 author 值）
+- 评论 ISSUE 次数：xx / [查询链接](https://github.com/search?q=commenter%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2019-10-01..2025-01-17&type=issues)) （注意替换 author 值）
 - 评论 PR 次数：xx / [查询链接](https://github.com/search?q=commenter%3ALigoml+org%3APaddlePaddle+type%3Apr+created%3A2024-06-11..2025-01-17&type=pullrequests) （注意替换 author 值）
 
 ### 代码审查贡献（必填）
