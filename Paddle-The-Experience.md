@@ -21,7 +21,7 @@
 
 ### 代码审查贡献（必填）
 
-- 评审次数：xx / [查询链接](https://github.com/search?q=type%3Apr++reviewed-by%3ALigoml++org%3APaddlePaddle+created%3A2024-06-11..2025-01-17&type=pullrequests)（注意替换 author 值）
+- 评审次数：256 / [查询链接](https://github.com/search?q=type%3Apr++reviewed-by%3Alidanqing-intel++org%3APaddlePaddle+created%3A2018-10-01..2025-01-17&type=pullrequests)（注意替换 author 值）
 - 代码审查贡献简述：（如主要参与哪些方面的代码审查，review 多少人的 pr 等）
 
 ### 生态贡献（加分项）
