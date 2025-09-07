@@ -11,7 +11,7 @@
 
 ### PR 贡献（必填）
 
-- PR 合并次数：109 / [查询链接]((https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+merged%3A2018-10-01..2025-01-17&type=pullrequests)
+- PR 合并次数：109 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+merged%3A2018-10-01..2025-01-17&type=pullrequests)
 - 代表性 PR 展示：
 
 ### ISSUE 贡献（必填）
