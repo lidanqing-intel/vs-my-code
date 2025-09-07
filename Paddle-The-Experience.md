@@ -27,7 +27,7 @@
 ### 代码审查贡献（必填）
 
 - 评审次数：256 / [查询链接](https://github.com/search?q=type%3Apr++reviewed-by%3Alidanqing-intel++org%3APaddlePaddle+created%3A2018-10-01..2025-01-17&type=pullrequests)（注意替换 author 值）
-- 代码审查贡献简述：主要参与模型在MKLDNN库基础上算子优化，算子融合，INT8预测量化相关代码评审
+- 代码审查贡献简述：主要参与模型在MKLDNN库基础上算子优化，算子融合，INT8量化相关代码评审
 ### 生态贡献（加分项）
 
 - 开源布道：如发布关于开源的专著、文章、公众号等，或是受邀参加技术峰会、开发者大会等，或是在相关会议、活动上推广开源文化等（对活动形式和参与次数进行描述）
