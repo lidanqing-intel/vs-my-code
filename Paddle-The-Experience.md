@@ -11,13 +11,13 @@
 
 ### ISSUE 贡献（必填）
 
-- ISSUE 提交次数：xx / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2019-10-01..2025-01-17&type=issues) （注意替换 author 值）
+- ISSUE 提交次数：51 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2018-10-01..2025-01-17&type=issues) （注意替换 author 值）
 - 代表性 ISSUE 展示：
 
 ### 评论贡献（必填）
 
-- 评论 ISSUE 次数：xx / [查询链接](https://github.com/search?q=commenter%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2019-10-01..2025-01-17&type=issues)) （注意替换 author 值）
-- 评论 PR 次数：398 / (https://github.com/search?q=commenter%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+created%3A2018-10-01..2025-01-17&type=pullrequests) （注意替换 author 值）
+- 评论 ISSUE 次数：158 / [查询链接](https://github.com/search?q=commenter%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2018-10-01..2025-01-17&type=issues)) （注意替换 author 值）
+- 评论 PR 次数：398 / [查询链接](https://github.com/search?q=commenter%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+created%3A2018-10-01..2025-01-17&type=pullrequests) （注意替换 author 值）
 
 ### 代码审查贡献（必填）
 
