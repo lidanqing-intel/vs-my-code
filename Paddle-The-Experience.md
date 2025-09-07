@@ -1,6 +1,6 @@
 
 
-### Github ID：[lidanqing](https://github.com/lidanqing-intel)
+### Github ID：[lidanqing-intel](https://github.com/lidanqing-intel)
 
 
 ### PR 贡献（必填）
