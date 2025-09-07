@@ -15,12 +15,13 @@
 
 - PR 合并次数：109 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Apr+merged%3A2018-10-01..2025-01-17&type=pullrequests)
 - 代表性 PR 展示：
-  - [MKLDNN develop fake data tester](https://github.com/PaddlePaddle/PaddleSlim/pull/943/files)
   - [Do not quantize X and Y if both are output](https://github.com/PaddlePaddle/Paddle/pull/43297)
+  - [MKLDNN develop fake data tester](https://github.com/PaddlePaddle/PaddleSlim/pull/943/files)
+  - 
 ### ISSUE 贡献（必填）
 
 - ISSUE 提交次数：51 / [查询链接](https://github.com/search?q=author%3Alidanqing-intel+org%3APaddlePaddle+type%3Aissue+created%3A2018-10-01..2025-01-17&type=issues)
-- 代表性 ISSUE 展示：
+- 代表性 ISSUE 展示：[paddle-deepmd inference with FP32 MKLDNN report "no kernel registered in tanh_grad operator](https://github.com/PaddlePaddle/Paddle/issues/45058)
 
 ### 评论贡献（必填）
 
@@ -30,7 +31,7 @@
 ### 代码审查贡献（必填）
 
 - 评审次数：256 / [查询链接](https://github.com/search?q=type%3Apr++reviewed-by%3Alidanqing-intel++org%3APaddlePaddle+created%3A2018-10-01..2025-01-17&type=pullrequests)（注意替换 author 值）
-- 代码审查贡献简述：主要参与模型在MKLDNN库基础上算子优化，算子融合，INT8量化相关代码评审
+- 代码审查贡献简述：主要参与模型在MKLDNN库基础上算子优化，融合，INT8量化相关代码评审
 ### 生态贡献（加分项）
 
 - 开源布道：如发布关于开源的专著、文章、公众号等，或是受邀参加技术峰会、开发者大会等，或是在相关会议、活动上推广开源文化等（对活动形式和参与次数进行描述）
