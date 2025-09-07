@@ -5,7 +5,7 @@
 
 在此期间，我曾组织过面向三千人的量化技术分享会，并支持PaddleScience分子动力学模型从TensorFlow迁移到PaddlePaddle，实现基于英特尔MKL的实际加速落地。
 
-深刻体会到硬件对深度学习的限制，同时云平台和大规模部署对于训练和应用不可或缺。后续，我获得了Microsoft AI Associate和Cloud Associate认证，帮助欧洲中小企业完成流程云化，并参与开发多个新产品，收获了一千多名免费用户和一批BuyMeCoffee支持者。
+深刻体会到硬件对深度学习的限制，同时云平台和大规模部署对于训练和预测不可或缺。后续，我获得了Microsoft AI Associate和Cloud Associate认证，帮助欧洲中小企业完成流程云化，并参与开发多个新产品，收获了一千多名免费用户和一批BuyMeCoffee支持者。
 
 百度PaddlePaddle深耕国内模型平台，拥有丰富的实际落地经验。期待未来能实现多个AI agent的流水线协作，在更多工业和生活场景中落地应用。最憧憬家务机器人如Mobile ALOHA早日量产走进千家万户——让AI助力美好生活、解放每个人的时间和创造力。
 
