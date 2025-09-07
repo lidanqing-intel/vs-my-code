@@ -27,7 +27,7 @@
 
 ### 生态贡献（加分项）
 
-- 开源布道：参加了英特尔AI实践日，主讲了[百度飞桨基于 Intel DL Boost 技术的推理加速方案](https://www.bilibili.com/video/BV11h411n7zh/)
+- 开源布道：参加了英特尔AI实践日，公开主讲了[百度飞桨基于 Intel DL Boost 技术的推理加速方案](https://www.bilibili.com/video/BV11h411n7zh/)
 - 社区活动：参加了PaddlePaddle Hackathon 第二期，增加了 PaddlePaddle 对分子动力学 Deepmd 和 Lammps的支持：[第二期任务总揽](https://github.com/PaddlePaddle/Paddle/issues/40234), [深分摸鱼组提交](https://github.com/deepmodeling/deepmd-kit/pull/1699)。团队获得8k，个人分得4k奖金。感谢PaddlePaddle Hackathon！
 
 
@@ -35,7 +35,7 @@
 
 在为PaddlePaddle贡献代码期间期间，我重点实践了在 MKL, MKLDNN 库基础上进行算子加速，算子融合，低精度算子实现，同时在模型层面推动多个模型的 INT8 量化。通过框架自下而上与自上而下的工程实践，我对深度学习与大模型的本质与优势有了深入理解。
 
-在此期间，我主讲了百度飞桨基于英特尔DL Boost技术的推理加速方案，介绍了利用Intel AVX-512指令集（包括VNNI和BF16）实现FP32、INT8和BF16多精度推理的优化方法。同时，我支持PaddleScience分子动力学模型从TensorFlow迁移到PaddlePaddle，借助英特尔MKL实现模型的高效加速和实际落地。
+在此期间，我向3000多名听众公开主讲了百度飞桨基于英特尔DL Boost技术的推理加速方案，介绍了利用Intel AVX-512指令集（包括VNNI和BF16）实现FP32、INT8和BF16多精度推理的优化方法。同时，我支持PaddleScience分子动力学模型从TensorFlow迁移到PaddlePaddle，借助英特尔MKL实现模型的高效加速和实际落地。
 
 我们在软件层面的努力，让我深刻体会到硬件对深度学习的限制，同时云平台和大规模部署对于训练和预测非常重要。后续，我获得了Microsoft AI Associate和Cloud Associate认证，帮助欧洲中小企业完成流程云化，并参与开发多个新产品，收获了一千多名免费用户和一批BuyMeCoffee支持者。
 
