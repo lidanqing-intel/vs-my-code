@@ -24,10 +24,11 @@
 
 - 评审次数：256 / [查询链接](https://github.com/search?q=type%3Apr++reviewed-by%3Alidanqing-intel++org%3APaddlePaddle+created%3A2018-10-01..2025-01-17&type=pullrequests)（注意替换 author 值）
 - 代码审查贡献简述：主要参与模型在MKLDNN库基础上算子优化，融合，INT8量化相关代码评审
+
 ### 生态贡献（加分项）
 
 - 开源布道：如发布关于开源的专著、文章、公众号等，或是受邀参加技术峰会、开发者大会等，或是在相关会议、活动上推广开源文化等（对活动形式和参与次数进行描述）
-- 社区活动：参加了PaddlePaddle Hackathon 第二期，增加了 PaddlePaddle 对分子动力学 Deepmd 和 Lammps的支持：https://github.com/deepmodeling/deepmd-kit/pull/1699
+- 社区活动：参加了PaddlePaddle Hackathon 第二期，增加了 PaddlePaddle 对分子动力学 Deepmd 和 Lammps的支持：[第二期任务总揽](https://github.com/PaddlePaddle/Paddle/issues/40234), [相关提交](https://github.com/deepmodeling/deepmd-kit/pull/1699)。团队获得8k，个人分得4k奖金。感谢PaddlePaddle Hackathon！
 
 
 ### 自荐理由 （必填）
